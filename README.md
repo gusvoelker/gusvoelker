@@ -71,4 +71,4 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gusvoelker&theme=vue)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gusvoelker&theme=vue)](https://git.io/streak-stats) -->
