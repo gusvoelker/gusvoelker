@@ -39,9 +39,9 @@ Here are some ideas to get you started:
   Recent Projects
 </h3>
 
-- [Chat Chat: an education site for language learning](https://github.com/addlink)
-- [Chévere: E-Commerce site for latest fashion trends](https://github.com/addlink) & [System Design](https://github.com/addlink)
-- [Dinner Time: an app that takes away the pain of dinner planning](https://github.com/addlink)
+- [Chat Chat: an education site for language learning](https://github.com/RFE2207-Rivendell/blue-ocean)
+- [Chévere: E-Commerce site for latest fashion trends](https://github.com/FEC2-Integrally-Illuminatos/rfe-2207-fec2-integrally-illuminatos) & [System Design](https://github.com/JM-Kit-Fisto/QA-Service)
+- [Dinner Time: an app that takes away the pain of dinner planning](https://github.com/gusvoelker/mvp)
 
 ### 🛠️ Languages and Tools
 
