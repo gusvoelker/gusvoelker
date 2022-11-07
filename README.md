@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-- 🔭 I'm currently learning **C#**, and **Python**
+- 🔭 I'm currently learning **C#**, **Python**, and  **React Native**
 - 🌱 I’m creating an application for planning dinners
 
 <h3> 
