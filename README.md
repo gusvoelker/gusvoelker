@@ -16,7 +16,7 @@
 
 ---
 
-- 🔭 I'm currently learning **C#**, **Python**, and  **React Native**
+- 🔭 I'm currently learning **Python**, and  **React Native**
 - 🌱 I’m creating an application for planning dinners
 
 <h3> 
