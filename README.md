@@ -16,8 +16,8 @@
 
 ---
 
-- 🔭 I'm currently learning **Python**, and  **React Native**
-- 🌱 I’m creating an application for planning dinners
+- 🔭 I'm currently learning **Swift**, and  **React Native**
+- 🌱 I’m creating an application to automate dinner planning
 
 <h3> 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="43px" height="30px">
