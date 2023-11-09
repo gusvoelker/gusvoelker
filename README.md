@@ -14,17 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=gusvoelker&style=flat-square&color=blue" alt=""/>
 </div>
 
----
-
-<h3> 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="43px" height="30px">
-  Recent Projects
-</h3>
-
-- [Chat Chat: an education site for language learning](https://github.com/RFE2207-Rivendell/blue-ocean)
-- [Chévere: E-Commerce site for latest fashion trends](https://github.com/FEC2-Integrally-Illuminatos/rfe-2207-fec2-integrally-illuminatos) & [System Design](https://github.com/JM-Kit-Fisto/QA-Service)
-- [Dinner Time: an app that takes away the pain of dinner planning](https://github.com/gusvoelker/mvp)
-
 ### 🛠️ Languages and Tools
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
